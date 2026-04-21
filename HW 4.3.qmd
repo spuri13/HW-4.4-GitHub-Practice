@@ -27,6 +27,9 @@ library(knitr)
 library(tidyr)
 library(ggplot2)
 
+# Airport data sourced from Wikipedia:
+# https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic
+
 airport <- c(
   "ATL", "ATL", "ATL", "ATL", "ATL", "ATL",
   "FRA", "FRA", "FRA", "FRA", "FRA", "FRA",
