@@ -22,6 +22,8 @@ execute:
 #| tbl-cap: "Passenger Traffic at Six Busiest Airports from 2020-2025"
 #| echo: false
 
+# Followed the Tidyverse Style Guide
+
 library(dplyr)
 library(knitr)
 library(tidyr)
